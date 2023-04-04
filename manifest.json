@@ -1,0 +1,17 @@
+{
+    "name": "Lordran GuideBook",
+    "short_name": "Cock",
+    "theme_color": "#f321c5",
+    "background_color": "#f321d1",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/PWA-Dark_Souls/index.html",
+    "description": "Fajna apka GIT",
+    "icons": [
+        {
+            "src": "./img/background.jpg",
+            "size": "272x330",
+            "type": "image/jpg"
+        }
+    ]
+}
